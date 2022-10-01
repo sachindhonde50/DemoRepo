@@ -9,7 +9,10 @@ public class DemoTest {
   public void demoTest() {
 	System.out.println("Hi...");
 }
-	
+@Test
+public void demoTest1() {
+	System.out.println("Hi...");
+}
 
 }
 
